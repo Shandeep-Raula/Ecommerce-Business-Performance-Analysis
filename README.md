@@ -1,4 +1,4 @@
-# Analyzing-eCommerce-Business-Performance-with-SQL
+# Ecommerce-Business-Performance-Analysis
 
 ## Background Project 
 Measuring business performance is very important for every company. It will help you assess your current market, access new customers and find new business opportunities. This time, I will analyze business performance of an e-Commerce by reviewing it customer growth, product quality, and payment methods.
